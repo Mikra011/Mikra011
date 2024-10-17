@@ -24,10 +24,10 @@ const readme = {
     jsChallenge: "https://arcade-clone-front.onrender.com"
   },
   challenge: {
-    "Learning something new everyday! Currently: Linked lists"
+    "Learning something new everyday! Currently: Typescript/Next.js"
   }
   currentWork: {
-    "Finishing my two projects mentioned above"
+    "A property rental project, more info coming soon"
   }
   contactMe: {
     email: "roberttothmails@yahoo.com"
