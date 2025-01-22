@@ -21,13 +21,14 @@ const readme = {
   },
   projects: {
     myPortfolio: "https://robert-portfolio-eczs.onrender.com",
-    jsChallenge: "https://arcade-clone-front.onrender.com"
+    jsChallenge: "https://arcade-clone-front.onrender.com",
+    rentalSite: "https://rent-it-8qq5.vercel.app"
   },
   challenge: {
     "Learning something new everyday! Currently: Typescript/Next.js"
   }
   currentWork: {
-    "A property rental project, more info coming soon"
+    "A scheduling site for a teacher"
   }
   contactMe: {
     email: "roberttothmails@yahoo.com"
