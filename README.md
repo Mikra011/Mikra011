@@ -7,8 +7,8 @@ const readme = {
   loves: ["food", "spring water", "aliens", "mountains", "building web apps",
     "cycling", "hiking"],
   technologies: {
-    backEnd: ["nodejs", "express", "cors", "helmet", "rest"],
-    frontEnd: ["reactjs", "tailwind", "vite"],
+    backEnd: ["nodejs", "express", "typescript", "next", "cors", "helmet", "rest"],
+    frontEnd: ["reactjs", "next", "typescript", "tailwind", "vite"],
     database: ["sql"],
     deployment: ["heroku", "vercel", "render"],
     tools: ["eslint", "git", "nodemon"],
