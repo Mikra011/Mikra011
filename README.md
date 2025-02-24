@@ -9,8 +9,9 @@ const readme = {
   technologies: {
     backEnd: ["nodejs", "express", "typescript", "next", "cors", "helmet", "rest"],
     frontEnd: ["reactjs", "next", "typescript", "tailwind", "vite"],
-    database: ["sql"],
-    deployment: ["heroku", "vercel", "render"],
+    database: ["sql", "mongodb"],
+    deployment: ["heroku", "vercel", "render", "supabase", "neondb"],
+    serverless: ["firebase", "supabase"],
     tools: ["eslint", "git", "nodemon"],
     chat: ["discord", "slack", "telegram", "element"],
     ai: ["codeium", "openAi"], 
