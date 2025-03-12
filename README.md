@@ -26,7 +26,7 @@ const readme = {
     rentalSite: "https://rent-it-8qq5.vercel.app"
   },
   challenge: {
-    "Learning something new everyday! Currently: Typescript/Next.js"
+    "Learning something new everyday! Currently: AWS"
   }
   currentWork: {
     "A scheduling site for a teacher"
